@@ -2,7 +2,8 @@
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
 
-I found the creality configs for 4.2.2 at https://github.com/MarlinFirmware/Configurations/tree/import-2.1.x/config/examples/Creality/Ender-3/CrealityV422
+I found the creality configs for 4.2.2 at https://github.com/MarlinFirmware/Configurations/tree/import-2.1.x/config/examples/Creality/Ender-3/CrealityV422\
+Additional settings were enabled using the suggestions in this stack overflow https://3dprinting.stackexchange.com/questions/19617/configuring-marlin-2-x-with-ender-3-4-2-2-and-bltouch
 
 <p align="center">
     <a href="/LICENSE"><img alt="GPL-V3.0 License" src="https://img.shields.io/github/license/marlinfirmware/marlin.svg"></a>
